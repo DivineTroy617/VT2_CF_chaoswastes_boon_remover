@@ -1,0 +1,11 @@
+mod = [
+	"CF_chaoswastes_boon_remover"
+]
+
+package = [
+	"resource_packages/CF_chaoswastes_boon_remover/CF_chaoswastes_boon_remover"
+]
+
+lua = [
+	"scripts/mods/CF_chaoswastes_boon_remover/*"
+]
